@@ -11,7 +11,7 @@
                     "course_name" : "Computational Fluid Dynamics",
                     "term" : "Spring 2025",
                     "grade" : "TBD",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -19,7 +19,7 @@
                     "course_name" : "Functional Analysis and Applications",
                     "term" : "Spring 2025",
                     "grade" : "TBD",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -27,7 +27,7 @@
                     "course_name" : "Model Reduction",
                     "term" : "Winter 2025",
                     "grade" : "A-",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -35,7 +35,7 @@
                     "course_name" : "Multidisciplinary Design Optimization",
                     "term" : "Winter 2025",
                     "grade" : "A+",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -43,7 +43,7 @@
                     "course_name" : "Real Analysis for Applications",
                     "term" : "Winter 2025",
                     "grade" : "B+",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 }
             ]
@@ -147,7 +147,7 @@
                     "course_name" : "Classical Mechanics I",
                     "term" : "Fall 2020",
                     "grade" : "A-",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -155,7 +155,7 @@
                     "course_name" : "Classical Mechanics II",
                     "term" : "Winter 2021",
                     "grade" : "A+",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -163,7 +163,7 @@
                     "course_name" : "Thermal Physics",
                     "term" : "Spring 2021",
                     "grade" : "A",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -171,7 +171,7 @@
                     "course_name" : "Electromagnetism I",
                     "term" : "Fall 2021",
                     "grade" : "A-",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -179,7 +179,7 @@
                     "course_name" : "Electronics for Scientists",
                     "term" : "Fall 2021",
                     "grade" : "A+",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -187,7 +187,7 @@
                     "course_name" : "Quantum Mechanics I",
                     "term" : "Fall 2021",
                     "grade" : "A-",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -195,7 +195,7 @@
                     "course_name" : "Software Construction",
                     "term" : "Fall 2021",
                     "grade" : "A",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -203,7 +203,7 @@
                     "course_name" : "Electromagnetism II",
                     "term" : "Winter 2022",
                     "grade" : "A+",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -211,7 +211,7 @@
                     "course_name" : "Quantum Mechanics II",
                     "term" : "Winter 2022",
                     "grade" : "A",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -219,7 +219,7 @@
                     "course_name" : "Probability & Statistics for Scientists and Engineers",
                     "term" : "Winter 2022",
                     "grade" : "A",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -227,7 +227,7 @@
                     "course_name" : "Electromagnetic Waves",
                     "term" : "Spring 2022",
                     "grade" : "A",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -235,7 +235,7 @@
                     "course_name" : "Quantum Mechanics III",
                     "term" : "Spring 2022",
                     "grade" : "A+",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -243,7 +243,7 @@
                     "course_name" : "Atomistic Modeling",
                     "term" : "Spring 2022",
                     "grade" : "A",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -251,7 +251,7 @@
                     "course_name" : "Discrete Structures",
                     "term" : "Spring 2022",
                     "grade" : "C+",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -259,7 +259,7 @@
                     "course_name" : "Introduction to Machine Learning & Data Mining",
                     "term" : "Fall 2022",
                     "grade" : "A+",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -267,7 +267,7 @@
                     "course_name" : "Scientific Computing",
                     "term" : "Fall 2022",
                     "grade" : "A",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -275,7 +275,7 @@
                     "course_name" : "Foundations of Robotics",
                     "term" : "Fall 2022",
                     "grade" : "A+",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -283,7 +283,7 @@
                     "course_name" : "Methods of Theoretical Physics",
                     "term" : "Fall 2022",
                     "grade" : "A",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -291,7 +291,7 @@
                     "course_name" : "Introduction to Neuroimaging with MRI",
                     "term" : "Winter 2023",
                     "grade" : "A",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -299,7 +299,7 @@
                     "course_name" : "Computer Vision",
                     "term" : "Winter 2023",
                     "grade" : "A",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -307,7 +307,7 @@
                     "course_name" : "Advanced Physics Laboratory",
                     "term" : "Winter 2023",
                     "grade" : "A",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -315,7 +315,7 @@
                     "course_name" : "PHYS142W Writing Workshop",
                     "term" : "Winter 2023",
                     "grade" : "S",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -323,7 +323,7 @@
                     "course_name" : "Machine Learning",
                     "term" : "Spring 2023",
                     "grade" : "A",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 },
                 {
@@ -331,7 +331,7 @@
                     "course_name" : "Advanced Statistical Physics",
                     "term" : "Spring 2023",
                     "grade" : "A+",
-                    "credits" : 3,
+                    "credits" : 4,
                     "description" : "..."
                 }
             ]
