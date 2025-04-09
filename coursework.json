@@ -1,0 +1,340 @@
+{
+    "universities" : [
+        {
+            "university_name" : "University of California, San Diego",
+            "program" : "PhD in Mechanical and Aerospace Engineering",
+            "start_year" : 2025,
+            "end_year" : "TBD",
+            "courses" : [
+                {
+                    "course_code" : "MAE290C",
+                    "course_name" : "Computational Fluid Dynamics",
+                    "term" : "Spring 2025",
+                    "grade" : "TBD",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "MAE289C",
+                    "course_name" : "Functional Analysis and Applications",
+                    "term" : "Spring 2025",
+                    "grade" : "TBD",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "MAE274",
+                    "course_name" : "Model Reduction",
+                    "term" : "Winter 2025",
+                    "grade" : "A-",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "MAE270",
+                    "course_name" : "Multidisciplinary Design Optimization",
+                    "term" : "Winter 2025",
+                    "grade" : "A+",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "MAE289B",
+                    "course_name" : "Real Analysis for Applications",
+                    "term" : "Winter 2025",
+                    "grade" : "B+",
+                    "credits" : 3,
+                    "description" : "..."
+                }
+            ]
+        },
+        {
+            "university_name" : "Stony Brook University",
+            "program" : "M.S. in Computational Applied Mathematics",
+            "start_year" : 2023,
+            "end_year" : 2024,
+            "courses" : [
+                {
+                    "course_code" : "AMS526",
+                    "course_name" : "Numerical Analysis I",
+                    "term" : "Fall 2023",
+                    "grade" : "B+",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "AMS501",
+                    "course_name" : "Differential Equations and Boundary Value Problems I",
+                    "term" : "Fall 2023",
+                    "grade" : "B",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "AMS510",
+                    "course_name" : "Analytical Methods for AMS",
+                    "term" : "Fall 2023",
+                    "grade" : "B-",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "AMS595",
+                    "course_name" : "Fundamentals of Computing",
+                    "term" : "Fall 2023",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "AMS502",
+                    "course_name" : "Differential Equations and Boundary Value Problems II",
+                    "term" : "Spring 2024",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "AMS527",
+                    "course_name" : "Numerical Analysis II",
+                    "term" : "Spring 2024",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "AMS528",
+                    "course_name" : "Numerical Analysis III",
+                    "term" : "Spring 2024",
+                    "grade" : "A-",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "AMS503",
+                    "course_name" : "Applications of Complex Analysis",
+                    "term" : "Fall 2024",
+                    "grade" : "A-",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "AMS530",
+                    "course_name" : "Principles of Parallel Computing",
+                    "term" : "Fall 2024",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "AMS691",
+                    "course_name" : "Reinforcement Learning",
+                    "term" : "Fall 2024",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                }
+            ]
+        },
+        {
+            "university_name" : "University of California, Riverside",
+            "program" : "B.S. in Physics",
+            "start_year" : 2019,
+            "end_year" : 2023,
+            "courses" : [
+                {
+                    "course_code" : "PHYS130A",
+                    "course_name" : "Classical Mechanics I",
+                    "term" : "Fall 2020",
+                    "grade" : "A-",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "PHYS130B",
+                    "course_name" : "Classical Mechanics II",
+                    "term" : "Winter 2021",
+                    "grade" : "A+",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "PHYS132",
+                    "course_name" : "Thermal Physics",
+                    "term" : "Spring 2021",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "PHYS135A",
+                    "course_name" : "Electromagnetism I",
+                    "term" : "Fall 2021",
+                    "grade" : "A-",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "PHYS139L",
+                    "course_name" : "Electronics for Scientists",
+                    "term" : "Fall 2021",
+                    "grade" : "A+",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "PHYS156A",
+                    "course_name" : "Quantum Mechanics I",
+                    "term" : "Fall 2021",
+                    "grade" : "A-",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "CS100",
+                    "course_name" : "Software Construction",
+                    "term" : "Fall 2021",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "PHYS135B",
+                    "course_name" : "Electromagnetism II",
+                    "term" : "Winter 2022",
+                    "grade" : "A+",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "PHYS156B",
+                    "course_name" : "Quantum Mechanics II",
+                    "term" : "Winter 2022",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "STAT156",
+                    "course_name" : "Probability & Statistics for Scientists and Engineers",
+                    "term" : "Winter 2022",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "PHYS136",
+                    "course_name" : "Electromagnetic Waves",
+                    "term" : "Spring 2022",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "PHYS156C",
+                    "course_name" : "Quantum Mechanics III",
+                    "term" : "Spring 2022",
+                    "grade" : "A+",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "MSE156",
+                    "course_name" : "Atomistic Modeling",
+                    "term" : "Spring 2022",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "CS111",
+                    "course_name" : "Discrete Structures",
+                    "term" : "Spring 2022",
+                    "grade" : "C+",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "CS171",
+                    "course_name" : "Introduction to Machine Learning & Data Mining",
+                    "term" : "Fall 2022",
+                    "grade" : "A+",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "CS210",
+                    "course_name" : "Scientific Computing",
+                    "term" : "Fall 2022",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "EE144",
+                    "course_name" : "Foundations of Robotics",
+                    "term" : "Fall 2022",
+                    "grade" : "A+",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "PHYS231",
+                    "course_name" : "Methods of Theoretical Physics",
+                    "term" : "Fall 2022",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "BIEN276",
+                    "course_name" : "Introduction to Neuroimaging with MRI",
+                    "term" : "Winter 2023",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "EE146",
+                    "course_name" : "Computer Vision",
+                    "term" : "Winter 2023",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "PHYS142W",
+                    "course_name" : "Advanced Physics Laboratory",
+                    "term" : "Winter 2023",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "ENGL007",
+                    "course_name" : "PHYS142W Writing Workshop",
+                    "term" : "Winter 2023",
+                    "grade" : "S",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "CS229",
+                    "course_name" : "Machine Learning",
+                    "term" : "Spring 2023",
+                    "grade" : "A",
+                    "credits" : 3,
+                    "description" : "..."
+                },
+                {
+                    "course_code" : "PHYS133",
+                    "course_name" : "Advanced Statistical Physics",
+                    "term" : "Spring 2023",
+                    "grade" : "A+",
+                    "credits" : 3,
+                    "description" : "..."
+                }
+            ]
+        }
+    ]
+}
